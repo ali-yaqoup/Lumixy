@@ -1,1 +1,87 @@
-IyBMdW1peHkKCkEgUmVhY3QgTmF0aXZlIG1vYmlsZSBhcHBsaWNhdGlvbiBmb3IgYSBzZXJ2aWNlLXByb3ZpZGVyIG1hcmtldHBsYWNlLiBDdXN0b21lcnMgY2FuIGJyb3dzZSBhbmQgZGlzY292ZXIgbG9jYWwgc2VydmljZSBwcm92aWRlcnM7IHByb3ZpZGVycyByZWdpc3RlciwgbWFuYWdlIHRoZWlyIHByb2ZpbGVzLCBhbmQgdHJhY2sgdGhlaXIgYXBwcm92YWwgc3RhdHVzOyBhZG1pbnMgbWFuYWdlIGNhdGVnb3JpZXMgYW5kIHByb3ZpZGVyIGFwcGxpY2F0aW9ucy4gQmFja2VuZCBwb3dlcmVkIGJ5IHRoZSBjb21wYW5pb24gW0x1bWl4eS1iYWNrZW5kXShodHRwczovL2dpdGh1Yi5jb20vYWxpLXlhcW91cC9MdW1peHktYmFja2VuZCkgTGFyYXZlbCBBUEkuCgotLS0KCiMjIFRlY2ggU3RhY2sKCnwgVGVjaG5vbG9neSB8IFZlcnNpb24gfAp8LS0tfC0tLXwKfCBSZWFjdCBOYXRpdmUgfCAwLjgxLjUgfAp8IFJlYWN0IHwgMTkuMS4wIHwKfCBFeHBvIHwgfjU0LjAuMzMgfAp8IEV4cG8gUm91dGVyIHwgfjYuMC4yMyB8CnwgVHlwZVNjcmlwdCB8IH41LjkuMiB8CnwgUmVhY3QgTmF2aWdhdGlvbiAoYm90dG9tIHRhYnMpIHwgXjcuNC4wIHwKfCBSZWFjdCBOYXRpdmUgUmVhbmltYXRlZCB8IH40LjEuMSB8CnwgRXhwbyBHb29nbGUgRm9udHMgKENhaXJvKSB8IF4wLjQuMiB8CgotLS0KCiMjIEZlYXR1cmVzCgotICoqUHVibGljIGRpcmVjdG9yeSoqIOKAlCBCcm93c2UgYXBwcm92ZWQgc2VydmljZSBwcm92aWRlcnMgb24gdGhlIGhvbWUgc2NyZWVuLCB3aXRoIGR5bmFtaWMgY2F0ZWdvcnkgbGlzdGluZyBhbmQgZmVhdHVyZWQtcHJvdmlkZXIgc2VjdGlvbnMKLSAqKlNlYXJjaCoqIOKAlCBGaWx0ZXIgcHJvdmlkZXJzIGJ5IGNhdGVnb3J5OyByZXN1bHRzIGFyZSBzaG93biBhcyBzY3JvbGxhYmxlIHByb3ZpZGVyIGNhcmRzCi0gKipQcm92aWRlciByZWdpc3RyYXRpb24gZmxvdyoqIOKAlCAiSm9pbiBhcyBQcm92aWRlciIgZW50cnkgcG9pbnQgZnJvbSB0aGUgQWJvdXQgdGFiOyBtdWx0aS1zdGVwIG9uYm9hcmRpbmcgc2NyZWVucyB1bmRlciBgYXBwL3Byb3ZpZGVyL2AKLSAqKlByb3ZpZGVyIHdhaXRpbmcgc2NyZWVuKiog4oCUIERlZGljYXRlZCBgd2FpdGluZy1hcHByb3ZhbGAgc2NyZWVuIHNob3duIGFmdGVyIHN1Ym1pc3Npb24gd2hpbGUgdGhlIGFwcGxpY2F0aW9uIGlzIHVuZGVyIHJldmlldwotICoqUHJvdmlkZXIgZGFzaGJvYXJkKiog4oCUIEF1dGhlbnRpY2F0ZWQgcHJvdmlkZXIgc2VjdGlvbiB3aXRoIEhvbWUsIFNlYXJjaCwgYW5kIFByb2ZpbGUgdGFicyAoYGFwcC9wcm92aWRlci90YWJzL2ApCi0gKipBZG1pbiBkYXNoYm9hcmQqKiDigJQgQXV0aGVudGljYXRlZCBhZG1pbiBzZWN0aW9uIHdpdGggSG9tZSwgU2VhcmNoLCBhbmQgUHJvZmlsZSB0YWJzIChgYXBwL2FkbWluL3RhYnMvYCkKLSAqKkF1dGhlbnRpY2F0aW9uKiog4oCUIExvZ2luIHNjcmVlbiBhdCBgYXBwL2F1dGgvbG9naW4udHN4YCBiYWNrZWQgYnkgU2FuY3R1bSB0b2tlbiBhdXRoCi0gKipBYm91dCBwYWdlKiog4oCUIEFwcCBpbmZvcm1hdGlvbiBhbmQgY2FsbC10by1hY3Rpb24gZm9yIHByb3ZpZGVycyB0byBqb2luCi0gKipBcmFiaWMgYW5kIEVuZ2xpc2ggVUkqKiDigJQgQ2Fpcm8gZm9udCBsb2FkZWQgdmlhIGBAZXhwby1nb29nbGUtZm9udHMvY2Fpcm9gCgotLS0KCiMjIEdldHRpbmcgU3RhcnRlZAoKYGBgYmFzaAojIDEuIENsb25lIHRoZSByZXBvc2l0b3J5CmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYWxpLXlhcW91cC9MdW1peHkuZ2l0CmNkIEx1bWl4eQoKIyAyLiBJbnN0YWxsIGRlcGVuZGVuY2llcwpucG0gaW5zdGFsbAoKIyAzLiBTdGFydCB0aGUgRXhwbyBkZXZlbG9wbWVudCBzZXJ2ZXIKbnBtIHN0YXJ0CgojIFJ1biBvbiBhIHNwZWNpZmljIHBsYXRmb3JtCm5wbSBydW4gYW5kcm9pZCAgICMgQW5kcm9pZCBlbXVsYXRvciBvciBkZXZpY2UKbnBtIHJ1biBpb3MgICAgICAgIyBpT1Mgc2ltdWxhdG9yIChtYWNPUyBvbmx5KQpucG0gcnVuIHdlYiAgICAgICAjIFdlYiBicm93c2VyCgojIExpbnQKbnBtIHJ1biBsaW50CmBgYAoKRW5zdXJlIHRoZSBMdW1peHkgYmFja2VuZCBBUEkgaXMgcmVhY2hhYmxlIGFuZCB0aGUgYmFzZSBVUkwgaXMgY29uZmlndXJlZCBpbiB5b3VyIGVudmlyb25tZW50IG9yIGBhcHAuanNvbmAuCgotLS0KCiMjIFByb2plY3QgU3RydWN0dXJlCgpgYGAKTHVtaXh5LwrilJzilIDilIAgYXBwLwrilIIgICDilJzilIDilIAgKHRhYnMpLyAgICAgICAgICMgUHVibGljIHRhYiBuYXZpZ2F0b3I6IEhvbWUsIFNlYXJjaCwgQWJvdXQK4pSCICAg4pSc4pSA4pSAIGFkbWluLyAgICAgICAgICAjIEFkbWluLW9ubHkgc2NyZWVucyBhbmQgdGFiIG5hdmlnYXRvcgrilIIgICDilJzilIDilIAgYXV0aC8gICAgICAgICAgICMgTG9naW4gc2NyZWVuCuKUgiAgIOKUnOKUgOKUgCBwcm92aWRlci8gICAgICAgIyBQcm92aWRlciBzY3JlZW5zLCB0YWIgbmF2aWdhdG9yLCBhbmQgd2FpdGluZy1hcHByb3ZhbCBzY3JlZW4K4pSCICAg4pSc4pSA4pSAIHByb3ZpZGVycy8gICAgICAjIFJlYWN0IGNvbnRleHQgcHJvdmlkZXJzCuKUgiAgIOKUnOKUgOKUgCBlbnRyeS50c3ggICAgICAgIyBBcHAgZW50cnkgYW5kIGF1dGhlbnRpY2F0aW9uIHJvdXRpbmcK4pSCICAg4pSU4pSA4pSAIGluZGV4LnRzeCAgICAgICAjIFJvb3QgcmVkaXJlY3QK4pSc4pSA4pSAIGNvbXBvbmVudHMvICAgICAgICAgIyBSZXVzYWJsZSBVSSBjb21wb25lbnRzCuKUnOKUgOKUgCBhc3NldHMvICAgICAgICAgICAgICMgSW1hZ2VzIGFuZCBmb250cwrilJzilIDilIAgY29uc3RhbnRzLyAgICAgICAgICAjIEFwcC13aWRlIGNvbnN0YW50cwrilJzilIDilIAgaG9va3MvICAgICAgICAgICAgICAjIEN1c3RvbSBSZWFjdCBob29rcwrilJzilIDilIAgc2NyaXB0cy8gICAgICAgICAgICAjIERldmVsb3BlciB1dGlsaXR5IHNjcmlwdHMgKGUuZy4gcmVzZXQtcHJvamVjdCkK4pSU4pSA4pSAIHRoZW1lLyAgICAgICAgICAgICAgIyBTaGFyZWQgdGhlbWUgZGVmaW5pdGlvbnMKYGBgCgotLS0KCiMjIFJlbGF0ZWQgUmVwb3NpdG9yeQoKVGhpcyBhcHAgaXMgYmFja2VkIGJ5ICoqTHVtaXh5LWJhY2tlbmQqKiDigJQgYSBMYXJhdmVsIDEyIFJFU1QgQVBJOgpbaHR0cHM6Ly9naXRodWIuY29tL2FsaS15YXFvdXAvTHVtaXh5LWJhY2tlbmRdKGh0dHBzOi8vZ2l0aHViLmNvbS9hbGkteWFxb3VwL0x1bWl4eS1iYWNrZW5kKQo=
+# Lumixy
+
+A React Native mobile application for a service-provider marketplace. Customers can browse and discover local service providers; providers register, manage their profiles, and track their approval status; admins manage categories and provider applications. Backend powered by the companion [Lumixy-backend](https://github.com/ali-yaqoup/Lumixy-backend) Laravel API.
+
+---
+
+## Tech Stack
+
+| Technology | Version |
+|---|---|
+| React Native | 0.81.5 |
+| React | 19.1.0 |
+| Expo | ~54.0.33 |
+| Expo Router | ~6.0.23 |
+| TypeScript | ~5.9.2 |
+| React Navigation (bottom tabs) | ^7.4.0 |
+| React Native Reanimated | ~4.1.1 |
+| Expo Google Fonts (Cairo) | ^0.4.2 |
+
+---
+
+## Features
+
+- **Public directory** — Browse approved service providers on the home screen, with dynamic category listing and featured-provider sections
+- **Search** — Filter providers by category; results are shown as scrollable provider cards
+- **Provider registration flow** — "Join as Provider" entry point from the About tab; multi-step onboarding screens under `app/provider/`
+- **Provider waiting screen** — Dedicated `waiting-approval` screen shown after submission while the application is under review
+- **Provider dashboard** — Authenticated provider section with Home, Search, and Profile tabs (`app/provider/tabs/`)
+- **Admin dashboard** — Authenticated admin section with Home, Search, and Profile tabs (`app/admin/tabs/`)
+- **Authentication** — Login screen at `app/auth/login.tsx` backed by Sanctum token auth
+- **About page** — App information and call-to-action for providers to join
+- **Arabic and English UI** — Cairo font loaded via `@expo-google-fonts/cairo`
+
+---
+
+## Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/ali-yaqoup/Lumixy.git
+cd Lumixy
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the Expo development server
+npm start
+
+# Run on a specific platform
+npm run android   # Android emulator or device
+npm run ios       # iOS simulator (macOS only)
+npm run web       # Web browser
+
+# Lint
+npm run lint
+```
+
+Ensure the Lumixy backend API is reachable and the base URL is configured in your environment or `app.json`.
+
+---
+
+## Project Structure
+
+```
+Lumixy/
+├── app/
+│   ├── (tabs)/         # Public tab navigator: Home, Search, About
+│   ├── admin/          # Admin-only screens and tab navigator
+│   ├── auth/           # Login screen
+│   ├── provider/       # Provider screens, tab navigator, and waiting-approval screen
+│   ├── providers/      # React context providers
+│   ├── entry.tsx       # App entry and authentication routing
+│   └── index.tsx       # Root redirect
+├── components/         # Reusable UI components
+├── assets/             # Images and fonts
+├── constants/          # App-wide constants
+├── hooks/              # Custom React hooks
+├── scripts/            # Developer utility scripts (e.g. reset-project)
+└── theme/              # Shared theme definitions
+```
+
+---
+
+## Related Repository
+
+This app is backed by **Lumixy-backend** — a Laravel 12 REST API:
+[https://github.com/ali-yaqoup/Lumixy-backend](https://github.com/ali-yaqoup/Lumixy-backend)
